@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="36" height="32" tilewidth="32" tileheight="32" infinite="0" nextlayerid="25" nextobjectid="1">
+ <tileset firstgid="1" source="../Tilesets/TECH-borders.tsx"/>
+ <tileset firstgid="361" source="../Tilesets/systemtags.tsx"/>
+ <tileset firstgid="489" source="../Tilesets/TECH-Nature.tsx"/>
+ <tileset firstgid="3609" source="../Tilesets/passages.tsx"/>
+ <tileset firstgid="3753" source="../Tilesets/TECH-Buildings.tsx"/>
+ <tileset firstgid="28329" source="../Tilesets/TECH-Mounts.tsx"/>
+ <tileset firstgid="39369" source="../Tilesets/TECH-Nature-animations.tsx"/>
+ <tileset firstgid="50051" source="../Tilesets/tilesets complet diamond_pearl.tsx"/>
+ <tileset firstgid="61043" source="../Tilesets/TECH-Assets.tsx"/>
+ <tileset firstgid="68723" source="../Tilesets/TECH-Lab.tsx"/>
+ <layer id="10" name="Sableterre_chemin_1" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEY0CAMAAAI4EAACPBABeBAAAX14EXgReBAAAXgQXAKUFPgAOwIA3SDHwEHABOAADNpgBCOwIQIAVAoCADBLcvPB4NFSQgl3BwMhSATExlDYAykwCWA==
+  </data>
+ </layer>
+ <layer id="8" name="Herbe_1" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEVUHAEIFDhKwJekMw7BStu0yyRWx+1mocqSkCWECzxLFUSijiiuxAPCkadyzrVTMijPT+rjj+hShZ3gGT3tWZKhBVlO4nwGQAhoqqg4SgBGApFwJaCUpjyKj+nM3tUXD/ezh+W/hl/7sf/YC/2I7IR/kte2VzX0cZkjMyHlxLD11u5SRsrC/1nzfeaOb1XdtvHjTK+F1/TYPwp8/Ho/CAgFTZzs/fBK03l+yFrAjwIuwWuTHIKD5bN6FdipmGrC7xfDPe4/tQ1fHNtar6EQ5d3Hk4h81uj+nG0/GNqjzYwfjQl7tVd5DaP2bnfeYKg==
+  </data>
+ </layer>
+ <layer id="1" name="Sable_Plage_1" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEeUHAEQCAADfBQAOBgAADwYeBd4FAABPBQAAH04eBR5PTk5PTx8fHk8fYqiAa4YD0AKRQKisDhJAEODw+AQqAUKAEWgESUAESkAESsgESkAEDDEB8xgNowL39SzL1GNwHspUZy2T5tkoGFHGhKGheYIWjUM3gMnQPtItIMYl16ItHOfbEsOhjwArKIcShjBfR4A1nw81BlEDrBHTi1fTRSwM6ctGfcTXpptFi6qt4LZ16yMOVoLTVOHiAu/cKDLy1zUb4bryNQHZkM4RQx/RziV5u5gNrt+5INySoCtnHdaO7eTKHF5NRCAtvSjHNnwT/ssWTjEPhapfT5bYfmmVFg==
+  </data>
+ </layer>
+ <layer id="3" name="Océan_animations_1" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEX0DAJgAAGymAABtpm2mbaYAAM6mAADPIwCAgDKTwugR2AOCHAFtJcHSF+ZAIGUhAATUzAkAgTUgAEDoHRRGDwSAQA7CFBCYikAbG8HWEJgCCEEJd0oYIBDqhU6AFXPghQAT7IBweCA4RoUpXrHLR32ABQ==
+  </data>
+ </layer>
+ <layer id="13" name="Souche_arbre_1" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEV0DAHAAAG0EAABuBACdBAAAniwgwAKi2gPd5kOUIE6QAzhECYZx+EXDJgcx+AIEEjAFIQQjArYBbL4QDhsIHIMBzODgcnDgYEfDUAQagOGDIw+WB+MDPZjzQs3BBcLOwSgIFYDxqNOL+cDaDAUL
+  </data>
+ </layer>
+ <layer id="2" name="Côte_1" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAET0DAMgAALioAABXuai4qAAAWKhW9qdWV1cAAAAAHAAJQAHgIAEFeF70IhdDRcAJgENHJuFgEbgiCMg54MeSLiBjCsY9SNwaIh4IBgIn9GEn9MWgAAj0MBNqYxNuJrvBU16XcMJ2pF6kD7A=
+  </data>
+ </layer>
+ <layer id="12" name="Falaisesajustementgauche_1" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEX0DALQCAACexAAAn8QAAKDEAKbEAACnxAAAqJ7EAACqsKCorsQAAKKqp6KuxAAArxYAXUEFffycwC7WDqBGA1DAANR1kAbojgEo7jFRriwCUMpByhiAEgagrgjUWF0EBICCh+EAASgNmBjqCADlZ1WABQ==
+  </data>
+ </layer>
+ <group id="4" name="Z=0"/>
+ <layer id="14" name="Feuillage_arbre_2" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEQUCAMAAAAAAEAQAABEEAAASBAAAEwRBBAAAQgQQAM0AOoAX2hnBUCAABJZCkCNgJgUvWMCCdkYwFADwwk4A4AXGm2E=
+  </data>
+ </layer>
+ <layer id="11" name="Transistionherbeterre_2" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEa0CAPgAAIoEAI26vQRaBAAAWwQAAFwEAAC8uwQAAF0EWltcFAA9PhgfAkBhfJkDRMxJYBuTHoBxsd21i0kDELhYHAAODJAKEP8JCQ8m5gqSvUQGNPcTtAE=
+  </data>
+ </layer>
+ <layer id="20" name="Herbes_sables_2" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEf0BAKAAAK8FACAFAAAhUAUAAFEFrwWvBQ0AjUEFDVAIAwq8ABVrgIqACbUDMgUxG4QKJoAKA6cgpglKGwPVuFwBLA==
+  </data>
+ </layer>
+ <layer id="23" name="Loot_2" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAER0BACgAAKQCAAgA6UAF6d6JClpAhdzfpUIOKOgPLAroATX2/AEW
+  </data>
+ </layer>
+ <layer id="21" name="Débris_2" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEfUCAPgAAFoEAQC6uAQBALkZBQH4AwEA+QMBAPoDAVgEAQBZFgAxgB9KgIIKUsAYIFNaAJS/LiQADRGkABgo2CVU6CAFgEAAKMicLgoCSAE4BiAQQQIzUScvZglA5Tl/gAU=
+  </data>
+ </layer>
+ <layer id="22" name="Planque_tadmorv_2" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEcUAADgAAOQMAQDuBAAdBB8YE0PdBKDILj/AAg==
+  </data>
+ </layer>
+ <layer id="9" name="Transitionterresable_2" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAES0CAOAAANoFAADdBQDaBQAA2wUAADwGAAA7Bto8BgAADwAlBT4AHBpIARCxQhrusDFeTAZYYccAFhaWXd2YFLxgyoPUrKsACw==
+  </data>
+ </layer>
+ <layer id="17" name="Rochers_marins_2" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEQ0CAJgAAIysAO6sAADvUK0AAFGtAIysEQAAhyCCnpkBYAHgICAhAQpNjaCXiQA27OyNigwtCQDPgACAhaG0B+kYsg+w
+  </data>
+ </layer>
+ <layer id="18" name="Rochers_sable_2" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEbUDAAQCAADRAgAA0gIAAQMAAAIDADEDAAAyvOwCAAC8ArwC7AIeAMGAB8BCAhAACwABYCEBCIAFDkjxAigsnS4qCoACACGurhQsAIUhQEUEKYyWGYhnRQqAwjDxggFSvARUHCeIIFwR1JWACoiJobQBUMYAKPOkAiw=
+  </data>
+ </layer>
+ <layer id="19" name="Fleurs_2" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAET0BAFAAABSuAHYUrhSuCgDJBz7kqhNCCR/DAeDAAhQPESfGYApAuQ0F2g==
+  </data>
+ </layer>
+ <group id="3" name="Z=1">
+  <layer id="4" name="Falaises_2" width="36" height="32">
+   <data encoding="base64" compression="zstd">
+   KLUv/WAAER0LAJQDAACgxAAAnsSexAAAn6nEAACqxAAAqarEAACnp6mfnqfEAAChxAAAsK7EAACiocQAAK+mrq+orwAAgJuosKfSGqACmhk5zgES4BAgFDBBBBIgBEgBwqCERBIkQRJKwgTGbtMcHUJ3IWtGSvOyT3Rr4qk7QLEeMOswVF9kmfMcyQ44qLY6mVw+vbh6tt7XxcuWrMsEP2HBrF9vZ9bV1i388lK/9fp7gMcfqNJF8j9Et//V3J7EJ4qXd2Cd6/CvpSuxaBL1zX1S/ylCiH8JfZTwpHM3qM+wazlwzhOjFnwd/t+vIbz/PrW8WAzJFLDP2QnpP8KGZq3STt8fcYsOF0+j7B5p+wS5B6QbP8I3YcHS7htANXuw/TM6JxF5BJ41535eEj39/sLy+4qLos2awLxJ+1XAgSxEXvDPuADfGunHMfuWH8o7sXgYZwzGxtRXt5lTNDrBewHW4szBeTqGXO62HAk=
+  </data>
+  </layer>
+ </group>
+ <layer id="15" name="Feuillage_arbre_3" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAETUDAIQCsQMAALIDABAEAAARBAAAEgQAABMEAOADAADhAwAA4gMAAONBBAAAQhgAGQc+ABwySAGAkLsBYMFUHI4WAjsGsOAPCNxEAGjIwEpwsRxcgcAfDMDDnAqQmIrAFRg4g/sJovqBLQ==
+  </data>
+ </layer>
+ <layer id="5" name="Falaises_3" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEe0JAOQCAACexAAAn8QAAKDEAKrEAACnxAAAqaimp58AAJ6hxAAAr8QAALCur6KuoamgxICDqLBpawygghGZOXIDEmAhDAUnaDCChCNIOIKEJFhCgoVOAAVIjCxcAz2yT1LylLxEy/mu6OFoPYIxZYE9Z9q38n4hcYKw0DaNdd0HyzZu1O8LfkcGFy19XV0mWDsabXhyGpR3q09HkA/fbvs4GA4yb3Pct42Cg5jS561DNlrBGpmwXPDb5dVZhH/IMa/ETsNOMtc81V1DsuyxfLQwOYDn+jSP+HH7EuMUspU686F1TbIYsJfY+FtbUi58ebUafI6jlQLghErXxOZHZBNeJo87WKsTIT1ZMXZ+eN0jffFvJayGCSeHyWi9BO+3YKt+0NHwdJ1dnJK86zPrNO+RV5Ch9ooy9SB4+tKSVtkB
+  </data>
+ </layer>
+ <group id="2" name="Z=2"/>
+ <layer id="16" name="Feuillage_arbre_4" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEXUDAKQCAADgAwAA4QMAAOIDAADjAwCxAwAAshAEAAARBAAAEgQAABMEQQQAAEIEGwDdBj5kkALAIcCEoQT8AWBoXghA4diQMJSDP2gYGg5yCABK/QQBMDAUgT8QGBoaAAcATwECgIOhcPBUqAFPdUAb
+  </data>
+ </layer>
+ <layer id="6" name="Falaises_4" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEU0JANQDAACexAAAn6DEpsQAAKeorsQAAK/EAACioaHEAACwqcQAAKqup56nqMSnqaegxJ6uqKcAAKGoxKevqgAAp3eogG1lDqCCEZm5qgMSIBGkKAUUAxMqToiYIAqS0IhPlGE2HfG0WG3TiEC9ljQTtoH+TixH8OwW/h+y0D00uyOOyURvI08sKya1HopddTDk8fX7nRMmjDHklp2Z95VDiJvzzZlHUGdItS9Nffy8HQQuIT9V5v613uEoTmjtz1rPYJsrJ7jaSKcr6J76hHA099tbKHWdIRjDcYGo8HgmW0BDAj1x5+mPv6lAfKSOGNN1libysviw1/WZ2Xszd4VJRu7Lb3kLaKZwAzleb027H0UmFfORv4Tu+8axOSxNXP0PyzS84X6LnG2VHQ==
+  </data>
+ </layer>
+ <group id="48" name="Z=3"/>
+ <layer id="7" name="Rochers_falaises_5" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEX0GAOQDAAC9AgDtvALs0QIAANICvAK9AgEDAAACAwC9AgAAMQMAADID7QK8AuwCvQLtArwC7AK8AuwCvAIAAOwCvAJLqFBlVVoDgIOSNA8SwBCAGJBAaRgCkAAjYAgkghsCiABiGBCCBjLGbGMDAYAOrBLy+/sF1ggkh/KQnlJNDO0jPLH4EEPs9Tmy2X3r+fUWAOd3w3/vur2pRZfNtfMijF98u1aB3DvILutXimFH7WVQpTexX5aNdyV5L0Up8MkasbrsCSIn6SE8wUyx8+VAWw==
+  </data>
+ </layer>
+ <layer id="24" name="Feuillage_arbre_5" width="36" height="32">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEaUAAEAAAOMDABMEAAMQAHrQDwU11hQW
+  </data>
+ </layer>
+ <group id="49" name="Z=4"/>
+ <layer id="168" name="systemtags" width="36" height="32" visible="0">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAETUGACQCAAB3AXcBdwEAAHcBdwF3AX4BAAB+AX4BfgF+AQAAAAB+AYCFqNDjoIMk6RKAElAEWAKEACwgBJCACKCACJwACZBwIiSEGCKGvBgCJgcP8w3JvvegCn7szUzFzo0uTSPnZDVwu8GzyPLc8qzxI7a8Z0kW9rv+s3nEQnFtWwUJbf531CCU38WOjaCnrDxb/94OhKESR2H13ov8MtylubtOxrV4m2UbIwY8CYXZjAq03Zhazbnl4KX5sxa43cJnQOMZutM6Mg==
+  </data>
+ </layer>
+ <layer id="15" name="passages" width="36" height="32" visible="0" opacity="0.34">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEY0HAIJEBQXwOYNfZdtg22Dbtm2DwTbYYBtsEICTqJDDA3CDpG0DEgASwARcAUaAE0AEiIAIkMAIlIAIlIAIkAAhYgTDHBldA1VboX0eK8vTb7oS6xl98xX5R7G7TvI6MPlvLkiEH/f0AYzoZg5FhQn0/AGmFTUszrBpW0NMeDyVH0ux6fDUDD40BUmW5sBns+hId5AbwRME0E7ifA6unoC21tszoO+pDMs22SWfO0PAWtQQ6DB6GYe7tCD0NuTfLV2awKVoaXxGn7sZtuBf/j8edZ1NqKS04PP0ZOu8E8SMcuxN9nrSe8QCYEHK4S6S61BLVAo=
+  </data>
+ </layer>
+ <layer id="1" name="Borders" width="36" height="32" visible="0">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAAEU0AABAAAAEA+9EDLA==
+  </data>
+ </layer>
+</map>
